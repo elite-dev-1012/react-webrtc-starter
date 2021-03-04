@@ -20,7 +20,7 @@ This application reproduces the mechanism of SFU using a native RTCPeerConnectio
 ## Get Started
 1.First clone this repository to your computer.
 ```
-$ git clone https://github.com/yuyake0084/react-webrtc-starter.git
+$ git clone ...
 $ cd react-webrtc-starter
 ```
 
