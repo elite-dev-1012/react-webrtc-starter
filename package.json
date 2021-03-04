@@ -2,8 +2,6 @@
   "name": "react-webrtc-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/yuyake0084/react-webrtc-starter.git",
-  "author": "yuyake0084 <yuyake0084@gmail.com>",
   "scripts": {
     "test": "jest",
     "type-check": "tsc --noEmit",
@@ -25,7 +23,6 @@
     "lint": "eslint . --cache --ext .ts,.tsx",
     "fmt": "prettier --loglevel warn --write \"**/*.{js,ts,tsx,md,json}\""
   },
-  "license": "MIT",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
